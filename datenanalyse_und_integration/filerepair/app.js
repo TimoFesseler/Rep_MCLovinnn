@@ -7,7 +7,7 @@ const rl = readline.createInterface({
 });
 read(fs);
 
-
+//Test
 function read(fs) {
     
     fs.readFile('Liste_PPN-ExNr_HSHN-libre.csv',"UTF-8", function (err, data) {
